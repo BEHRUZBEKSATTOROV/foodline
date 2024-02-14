@@ -1,0 +1,195 @@
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.navbar {
+  justify-content: center;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.bek {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-items: center;
+  padding: 0px 100px;
+}
+.bek .behruz {
+  width: 400px;
+  height: 434px;
+  background: linear-gradient(180deg, rgba(231, 249, 253, 0) 0%, #E7F9FD 100%);
+  padding: 20px 0px 10px 19px;
+  border-radius: 30px;
+  margin-top: 50px;
+  gap: 40px;
+}
+.bek .behruz h1 {
+  margin: 0;
+}
+.bek .behruz .sss {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+.bek .behruz .yyy {
+  border-radius: 30px;
+  transition: 1s;
+}
+.bek .behruz .yyy:hover {
+  scale: 1.1;
+}
+
+.durdona {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 70px;
+}
+.durdona .ggg {
+  padding: 21px 53px 22px 52px;
+  border-radius: 16px;
+  background-color: black;
+  color: #E7F9FD;
+  margin-top: 30px;
+}
+.durdona .ggg:hover {
+  border: 4px solid;
+  background-color: white;
+  color: black;
+}
+
+.bunyod {
+  text-align: center;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.tohir {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  width: 100%;
+  height: 764px;
+  background: linear-gradient(180deg, rgba(231, 249, 253, 0) 0%, #E7F9FD 100%);
+  margin-top: 50px;
+}
+.tohir .termiz {
+  display: flex;
+  font-size: x-large;
+  justify-content: space-between;
+  padding: 5px 10px 0px 10px;
+}
+
+.botir {
+  justify-content: center;
+  text-align: center;
+  margin-top: 50px;
+}
+.botir button {
+  padding: 21px 71px 22px 32px;
+  border-radius: 16px;
+  background-color: black;
+  color: #E7F9FD;
+}
+.botir button:hover {
+  background-color: #f6f6f7;
+  color: #080808;
+  border: 4px solid black;
+}
+
+.bobur {
+  margin-top: 200px;
+  display: flex;
+  justify-content: space-between;
+  padding: 50px 100px 0px 100px;
+}
+
+.bekzod {
+  width: 300px;
+  height: 200px;
+  margin-top: 30px;
+  background-color: #f6f6f7;
+}
+.bekzod .afruz {
+  font-size: 18px;
+}
+.bekzod .charos {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.dunyo {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  place-items: center;
+}
+.dunyo .burger {
+  margin-top: 50px;
+}
+.dunyo .burger .javlon {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.dunyo .burger img {
+  transition: 1s;
+}
+.dunyo .burger .img:hover {
+  scale: 1.1;
+  border-radius: 16px;
+}
+
+.sanjar {
+  width: 1280px;
+  height: 342px;
+  text-align: center;
+  justify-content: space-between;
+  margin-top: 70px;
+  background: #E7F9FD;
+  margin: auto;
+  margin-top: 100px;
+  position: relative;
+}
+.sanjar .div-1 {
+  position: absolute;
+  top: 20px;
+  display: grid;
+  place-items: center;
+  right: 370px;
+  margin-bottom: 120px !important;
+}
+.sanjar .zero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 16px;
+  margin-top: 100px;
+}
+.sanjar .zero .inputs {
+  position: relative;
+  border-radius: 15px;
+  margin-top: 30px;
+}
+.sanjar .zero .inputs button {
+  position: absolute;
+  left: 170px;
+  padding: 10px 10px 10px 10px;
+  border-radius: 10px;
+  top: 8px;
+  background-color: #080808;
+  color: #E7F9FD;
+  padding-right: 10px;
+}
+.sanjar .zero .inputs input {
+  padding: 20px 80px 20px 20px;
+  border-radius: 10px;
+  border: none;
+}
+.sanjar .zero .img {
+  margin-top: -40px;
+}
+.sanjar .zero .img2 {
+  margin-top: 100px;
+}/*# sourceMappingURL=style.css.map */
