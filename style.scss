@@ -16,7 +16,7 @@ body{
 .behruz{
     width: 400px;
     height: 434px;
-    background: linear-gradient(180deg, rgba(231, 249, 253, 0.00) 0%, #E7F9FD 100%);
+    background: linear-gradient(180deg, rgba(231, 249, 253, 0.00) 0%, #E7F9FD 100%);  
     padding: 20px 0px 10px 19px;
     border-radius: 30px;
     margin-top: 50px;
@@ -207,4 +207,30 @@ body{
     margin-top: 100px ;
     display: flex;
     justify-content: space-between;
+   .bulut{
+    display: flex;
+    gap: 120px;
+    padding: 0px 20px 0px 20px;
+   }
+}
+
+
+.qor{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 70px;
+    gap: 100px;
+    align-items: center;
+  
+}
+
+.iphone{
+    display: flex;
+    justify-content: end;
+    margin-top:-38px;
+    gap: 50px;
+    padding: 0px 10px 0px 10px;
+    font-size: x-large;
+
 }

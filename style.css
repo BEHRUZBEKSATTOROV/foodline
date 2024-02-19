@@ -198,4 +198,27 @@ body {
   margin-top: 100px;
   display: flex;
   justify-content: space-between;
+}
+.rubik .bulut {
+  display: flex;
+  gap: 120px;
+  padding: 0px 20px 0px 20px;
+}
+
+.qor {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 70px;
+  gap: 100px;
+  align-items: center;
+}
+
+.iphone {
+  display: flex;
+  justify-content: end;
+  margin-top: -38px;
+  gap: 50px;
+  padding: 0px 10px 0px 10px;
+  font-size: x-large;
 }/*# sourceMappingURL=style.css.map */
