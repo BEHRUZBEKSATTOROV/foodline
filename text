@@ -1,3 +1,4 @@
 1. git add .  /// barcha o'zgargan fayllarni saxranit qiladi
 2. git commit -m "rubik divini qoshdim "  /// o'zgargan fayllarni o'zimiz uchun commit yozish uchun kerak
 3. git push origin main /// buni vazifasi codelarni githubga jo'natadi
+
